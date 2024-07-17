@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Coding/PRJ301/prj301-se1867-08/Storee/web/productadminedit.jsp</file>
+            <file>file:/D:/Coding/PRJ301/prj301-se1867-08/Storee/web/voucheradminedit.jsp</file>
+            <file>file:/D:/Coding/PRJ301/prj301-se1867-08/Storee/web/css/loginSucc.css</file>
+            <file>file:/D:/Coding/PRJ301/prj301-se1867-08/Storee/web/orderadminedit.jsp</file>
+            <file>file:/D:/Coding/PRJ301/prj301-se1867-08/Storee/web/register.jsp</file>
+            <file>file:/D:/Coding/PRJ301/prj301-se1867-08/Storee/web/voucheradmindetail.jsp</file>
+            <file>file:/D:/Coding/PRJ301/prj301-se1867-08/Storee/web/orderdetaillist.jsp</file>
+            <file>file:/D:/Coding/PRJ301/prj301-se1867-08/Storee/web/css/loginSuccadmin.css</file>
+            <file>file:/D:/Coding/PRJ301/prj301-se1867-08/Storee/web/loginSucc.jsp</file>
+            <file>file:/D:/Coding/PRJ301/prj301-se1867-08/Storee/web/product.jsp</file>
+            <file>file:/D:/Coding/PRJ301/prj301-se1867-08/Storee/web/css/headeradmin.css</file>
+            <file>file:/D:/Coding/PRJ301/prj301-se1867-08/Storee/src/java/Order/OrderDAO.java</file>
+            <file>file:/D:/Coding/PRJ301/prj301-se1867-08/Storee/web/productadmin.jsp</file>
+            <file>file:/D:/Coding/PRJ301/prj301-se1867-08/Storee/web/css/header.css</file>
+            <file>file:/D:/Coding/PRJ301/prj301-se1867-08/Storee/web/useradmindetail.jsp</file>
+            <file>file:/D:/Coding/PRJ301/prj301-se1867-08/Storee/web/home.jsp</file>
+            <file>file:/D:/Coding/PRJ301/prj301-se1867-08/Storee/src/java/OrderDetails/OrderDetailsDAO.java</file>
+            <file>file:/D:/Coding/PRJ301/prj301-se1867-08/Storee/web/login.jsp</file>
+            <file>file:/D:/Coding/PRJ301/prj301-se1867-08/Storee/src/java/OrderDetails/OrderDetailsDTO.java</file>
+            <file>file:/D:/Coding/PRJ301/prj301-se1867-08/Storee/src/java/Users/UserDTO.java</file>
+            <file>file:/D:/Coding/PRJ301/prj301-se1867-08/Storee/src/java/Controller/AdminController.java</file>
+            <file>file:/D:/Coding/PRJ301/prj301-se1867-08/Storee/src/java/Controller/LoginController.java</file>
+            <file>file:/D:/Coding/PRJ301/prj301-se1867-08/Storee/web/productadmindetail.jsp</file>
+            <file>file:/D:/Coding/PRJ301/prj301-se1867-08/Storee/src/java/Products/ProductsDAO.java</file>
+            <file>file:/D:/Coding/PRJ301/prj301-se1867-08/Storee/web/orderadmindetail.jsp</file>
+            <file>file:/D:/Coding/PRJ301/prj301-se1867-08/Storee/src/java/Users/UserDAO.java</file>
+            <file>file:/D:/Coding/PRJ301/prj301-se1867-08/Storee/src/java/Controller/RegisterController.java</file>
+            <file>file:/D:/Coding/PRJ301/prj301-se1867-08/Storee/src/java/Vouchers/VouchersDAO.java</file>
+            <file>file:/D:/Coding/PRJ301/prj301-se1867-08/Storee/web/adminloginSucc.jsp</file>
+            <file>file:/D:/Coding/PRJ301/prj301-se1867-08/Storee/web/header.jsp</file>
+            <file>file:/D:/Coding/PRJ301/prj301-se1867-08/Storee/web/useradminedit.jsp</file>
+            <file>file:/D:/Coding/PRJ301/prj301-se1867-08/Storee/web/ao.jsp</file>
+            <file>file:/D:/Coding/PRJ301/prj301-se1867-08/Storee/web/productadminlist.jsp</file>
+            <file>file:/D:/Coding/PRJ301/prj301-se1867-08/Storee/web/productlist.jsp</file>
+            <file>file:/D:/Coding/PRJ301/prj301-se1867-08/Storee/src/java/Order/OrderDTO.java</file>
+        </group>
+    </open-files>
+</project-private>

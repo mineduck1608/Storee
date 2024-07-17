@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PDMPlugin">
+    <option name="customRuleSets">
+      <list>
+        <option value="D:\Downloads\pmd-master\pmd-master\.ci\files\all-regression-rules.xml" />
+      </list>
+    </option>
+    <option name="inEditorAnnotationRules">
+      <list>
+        <option value="category/java/bestpractices.xml" />
+        <option value="category/java/codestyle.xml" />
+        <option value="category/java/design.xml" />
+        <option value="category/java/documentation.xml" />
+        <option value="category/java/errorprone.xml" />
+        <option value="category/java/multithreading.xml" />
+        <option value="category/java/performance.xml" />
+        <option value="category/java/security.xml" />
+      </list>
+    </option>
+    <option name="optionKeyToValue">
+      <map>
+        <entry key="Statistics URL" value="" />
+        <entry key="Target JDK" value="20-preview" />
+        <entry key="Threads" value="20" />
+      </map>
+    </option>
+    <option name="skipTestSources" value="false" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
